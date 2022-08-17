@@ -1,0 +1,9 @@
+{
+	// Command executed upon initial use, or core files change
+	// Run every time
+	"start": "./run.sh"
+	/**
+	* This section can be extracted to `watch.json` (alternatively)
+	* @SEE `watch.json` section below for docs
+	*/
+}
